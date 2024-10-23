@@ -1,13 +1,16 @@
-public class condicionales {
-    public static void main(string[] args) 
+class Condicionales {
+    public static void main(String[] args) {
+        // Declaración de la variable 'numero'
+        int numero = 5;
+        
+        // Condicional if-else 
+        
+        if (numero > 0) {
+            System.out.println("El número es positivo");
+        } else if (numero < 0) {
+            System.out.println("El número es negativo");
+        } else {
+            System.out.println("El número es cero");
+        }
+    }
 }
-
-int numero = 5; //aqui le estamos asignando un valor a la variable 'numero'
-
-if (numero > 0 ) { //si numero es mayor que 0, entonces ejecutame este bloque 
-System.out.println("El numero es positivo");
-
-} else if (numero < 0 ) {
-System
-}
-
