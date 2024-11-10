@@ -1,4 +1,4 @@
-class DO_While {
+class bucle {
     public static void main(String[] args) {
         // Inicialización de la variable i en 0
         int i = 0;

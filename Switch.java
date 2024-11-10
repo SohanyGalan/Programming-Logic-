@@ -1,35 +1,32 @@
-
-class   EstructuraSwitch {
+class EstructuraSwitch {
     public static void main(String[] args) {
         
-        char nota = '8';
+        char nota = '8';  // Definición de la variable de tipo char
         
-   switch (nota) {
-       case '5':
-       System.out.println ("Suficiente");
-       break;
-       
-       case '6':
-           System.out.println ("bien");
-           break;
-           
-           case '7':
-           System.out.println ("notable"); 
-           break;
-           
-           case '8':
-           System.out.println ("notables +");
-           break; 
-           
-           case '9':
-           System.out.println ("sobresaliente");
-           break;
-           
-           default:
-           System.out.println ("suspendidos"); 
- //si no se cumple ninguna de estas opciones me va a lanzar este defualt  
-
-   }
-        
+        switch (nota) {
+            case '5':
+                System.out.println("Suficiente");
+                break;
+                
+            case '6':
+                System.out.println("Bien");
+                break;
+                
+            case '7':
+                System.out.println("Notable"); 
+                break;
+                
+            case '8':
+                System.out.println("Notables +");
+                break;
+                
+            case '9':
+                System.out.println("Sobresaliente");
+                break;
+                
+            default:
+                System.out.println("Suspendidos");
+                // Si no se cumple ninguna de estas opciones, se ejecuta este bloque
+        }
     }
 }

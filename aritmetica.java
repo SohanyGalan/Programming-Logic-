@@ -5,7 +5,7 @@ class learningaritmetic {
         int a = 10; // Variable a inicializada en 10
         int b = 20; // Variable b inicializada en 20
         int c = 25; // Variable c inicializada en 25
-        int d = 25; // Variable d inicializada en 25 (no se utiliza en el código)
+        
         
         // Suma de a y b
         System.out.println("a + b = " + (a + b)); // Imprime: a + b = 30
