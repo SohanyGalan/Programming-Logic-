@@ -1,4 +1,4 @@
-class   PracticeVariables {
+class   PracticeVariables2 {
     public static void main(String[] args) {
         
         int n1= 2, n2 = 5, n3 = 0;
