@@ -1,4 +1,4 @@
-//Las constantes en Java se definen usando la palabra clave final. 
+//Las constantes en Java se definen usando la palabra clave "final". 
 //Esto significa que el valor de esa variable no puede cambiar una vez que se le asigna.
 
 package Variables;  
