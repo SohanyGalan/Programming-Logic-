@@ -6,8 +6,8 @@ Instrucciones:
 1. Define IVA como una constante (por ejemplo, 0.18 para un IVA del 18%).
 2. Solicita al usuario el precio de un producto.
 3. Calcula y muestra:
-   - El monto del IVA.
-   - El precio final (precio + IVA).
+- El monto del IVA.
+- El precio final (precio + IVA).
 */
 
 package Ejercicios_para_practicar;
