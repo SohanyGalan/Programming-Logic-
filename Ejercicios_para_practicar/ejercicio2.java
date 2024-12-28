@@ -25,6 +25,6 @@ public class ejercicio2 {
         double pesos = dolares * TASA_DE_CAMBIO;
 
         System.out.println("La cantidad en pesos es: " + pesos);
-        scanner.close();
+    
     }
 }

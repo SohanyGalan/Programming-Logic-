@@ -28,7 +28,7 @@ public class ejercicio3 {
 
         System.out.println("El precio final es: " + precioFinal);
         System.out.println("El monto del IVA es: " + ivaTotal);
-        scanner.close();
+    
 
     }
 }

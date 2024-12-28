@@ -30,7 +30,7 @@ public class ejercicio5 {
         else if (edad < MAYORIA_EDAD) {
             System.out.println("Eres menor de edad");
         }
-        scanner.close();
+        
 
     }
 }

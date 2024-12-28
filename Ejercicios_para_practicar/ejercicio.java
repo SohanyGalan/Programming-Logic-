@@ -18,6 +18,6 @@ public class ejercicio {
         double area = Pi * Math.pow(radio, 2);
 
         System.out.println("El área del círculo con radio " + radio + " es: " + area);
-        scanner.close();
+    
     }
 }
